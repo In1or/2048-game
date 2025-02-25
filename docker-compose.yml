@@ -1,6 +1,7 @@
 version: '3.8'
 services:
   game1:
+    build: .
     image: 2048-game:v1.1.1
     container_name: 2048-container-1
     ports:
