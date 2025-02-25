@@ -1,3 +1,4 @@
+version: '3.8'
 services:
   game1:
     image: 2048-game:v1.1.1
